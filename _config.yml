@@ -1,6 +1,26 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: Dheeraj Salwadi
+logo: assets/img/WhatsApp Image 2024-04-24 at 4.28.12 PM.jpeg
+description: Team Lead at Scale AI
+description:
+  <p align="center">
+  <a href="assets/Dheeraj Resume 2024 (1).pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/dheeraj-s-90181b208//">LinkedIn</a> |
+  <a href="https://github.com/CHEEESYPIZZA">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Machine learning & NLP related problems.
+  Also working on skills realted prompting engineering related.
+  Working in Scale AI.
+  <br>
+  </p>
+
+
+
+
+
+
+
+
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
